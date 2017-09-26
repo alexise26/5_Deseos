@@ -1,4 +1,4 @@
 export class ListaItem{
   nombre:string;
-  completatado:boolean;
+  completado:boolean;
 }
